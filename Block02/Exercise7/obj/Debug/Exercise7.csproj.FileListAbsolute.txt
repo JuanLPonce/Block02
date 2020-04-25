@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Block02\Exercise7\bin\Debug\Exercise7.exe.config
+C:\Users\Acer\source\repos\Block02\Exercise7\bin\Debug\Exercise7.exe
+C:\Users\Acer\source\repos\Block02\Exercise7\bin\Debug\Exercise7.pdb
+C:\Users\Acer\source\repos\Block02\Exercise7\obj\Debug\Exercise7.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Block02\Exercise7\obj\Debug\Exercise7.exe
+C:\Users\Acer\source\repos\Block02\Exercise7\obj\Debug\Exercise7.pdb
+C:\Users\Acer\source\repos\Block02\Exercise7\obj\Debug\Exercise7.csprojAssemblyReference.cache
